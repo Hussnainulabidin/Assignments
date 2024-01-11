@@ -1,0 +1,4 @@
+saad,ijp,20,3
+Affan,isl,19,4
+Hussnain,rwp,18,0.8
+hamdan,sawan,18,3
